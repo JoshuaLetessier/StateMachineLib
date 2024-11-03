@@ -1,0 +1,20 @@
+# Dossiers de Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# Fichiers générés par Visual Studio
+*.vcxproj.user
+*.suo
+*.opendb
+*.VC.db
+
+# Fichiers binaires
+*.exe
+*.dll
+*.lib
+*.obj
+
+# Dossier de Git
+.git/

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Actions">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAACICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conditions&lt;StateTemplate&gt;">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Conditions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity&lt;StateTemplate&gt;">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQABAAAAAABAAAAAAAAAAAAACAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Behavior&lt;StateTemplate&gt;">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAACAQAAAAiAAAAAAAAAAAAAIAMIACAAAgQAA=</HashCode>
+      <FileName>Behavior.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transition&lt;StateTemplate&gt;">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAEAAAAAAIAAAACAAEAAAAAAAAAA=</HashCode>
+      <FileName>Transitions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
