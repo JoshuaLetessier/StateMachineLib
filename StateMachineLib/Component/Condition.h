@@ -9,6 +9,6 @@ class Conditions
 public:
 	Conditions() {}
 	virtual ~Conditions() {}
-	virtual bool Test(const Entity<StateTemplate>& entity) = 0;
+	virtual bool Test( Entity<StateTemplate>& entity) = 0;
 };
 

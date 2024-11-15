@@ -139,13 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Actions.h" />
-    <ClInclude Include="Behavior.h" />
-    <ClInclude Include="Conditions.h" />
-    <ClInclude Include="Entity.h" />
+    <ClInclude Include="Component\Action.h" />
+    <ClInclude Include="Component\Behavior.h" />
+    <ClInclude Include="Component\Condition.h" />
+    <ClInclude Include="Component\Entity.h" />
+    <ClInclude Include="Component\Transition.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="pch.h" />
-    <ClInclude Include="Transitions.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

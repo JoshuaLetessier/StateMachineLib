@@ -11,9 +11,14 @@ public:
 	virtual void Init() = 0;
 	virtual void Update() = 0;
 
-	void SetState(int state)
+	void SetState(StateTemplate state)
 	{
 		m_State = state;
+	}
+
+	StateTemplate GetState() const
+	{
+		return m_State;
 	}
 
 private:
